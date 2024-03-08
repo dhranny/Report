@@ -5,17 +5,24 @@ This is a project that aims the create a an easier monitoring framework for web 
 
 This is a Java project that utilizes the Spring framework and Twilio for communication functionalities.
 
+
+![Screenshot (73)](https://github.com/dhranny/Report/blob/main/Screenshot%20(73).png)
+
 ## Description
 
 This project aims to demonstrate how to integrate Twilio's messaging and voice services into a Java application built with the Spring framework. With Twilio, you can easily send SMS messages and make voice calls programmatically.
 
 This functionality is used to log details of each logged in user to the server of the application. The helps the admin to monitor and discover abnormalities in the security state of their application.
 
+![Screenshot (74)](https://github.com/dhranny/Report/blob/main/Screenshot%20(74).png)
+
 ## Features
 
 - Integration with Twilio's SMS messaging service.
 - Integration with Twilio's voice call functionality.
 - Utilization of Spring's dependency injection and inversion of control features.
+- 
+![Screenshot (75)](https://github.com/dhranny/Report/blob/main/Screenshot%20(75).png)
 
 ## Installation
 
