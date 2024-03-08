@@ -16,7 +16,7 @@ public class TwilioCl {
         Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
     }
 
-    public static void main(String messagep){
+    public static void send(String messagep){
         init();
         Message message = Message
                 .creator(
